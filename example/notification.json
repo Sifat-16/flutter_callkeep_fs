@@ -1,0 +1,10 @@
+{
+  "aps": {
+    "alert": {
+      "title": "Notification title",
+      "subtitle": "Notification subtitle",
+      "body": "Notification payload"
+    },
+    "sound": "default"
+  }
+}
